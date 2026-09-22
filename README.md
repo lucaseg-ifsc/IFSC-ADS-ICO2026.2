@@ -6,3 +6,5 @@ Fazendo uma alteração no README local
 Outro membro do time fez um alteração no código
 
 Uma alteração LOCAL no README
+
+Uma alteração REMOTA no README
